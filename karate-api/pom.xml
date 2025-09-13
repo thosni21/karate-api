@@ -17,7 +17,7 @@
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <karate.version>1.5.1</karate.version>
+        <karate.version>1.5.0</karate.version>
         <junit.version>5.10.0</junit.version>
     </properties>
 
@@ -25,7 +25,7 @@
         <dependency>
             <groupId>io.karatelabs</groupId>
             <artifactId>karate-junit5</artifactId>
-            <version>1.5.0</version>
+            <version>${karate.version}</version>
             <scope>test</scope>
         </dependency>
         <dependency>

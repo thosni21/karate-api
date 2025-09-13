@@ -4,9 +4,9 @@ Ce projet utilise [json-server](https://github.com/typicode/json-server) pour si
 
 ## Installation
 
-json-server est installé localement dans le projet :
+json-server version 0.17.4 est installé localement dans le projet (cette version retourne des ID numériques) :
 ```bash
-npm install json-server --save-dev
+npm install json-server@0.17.4 --save-dev
 ```
 
 ## Lancement du serveur

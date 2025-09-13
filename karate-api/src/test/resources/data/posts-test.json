@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Premier post de test",
+    "body": "Contenu du premier post utilisé pour les tests data-driven. Ce post contient du texte de démonstration pour valider les fonctionnalités de création.",
+    "userId": 1
+  },
+  {
+    "title": "Deuxième post de formation",
+    "body": "Ce deuxième post sert à tester les scénarios de création multiple. Il permet de valider que notre API peut gérer plusieurs créations successives.",
+    "userId": 2
+  },
+  {
+    "title": "Troisième post avancé",
+    "body": "Le troisième et dernier post de notre jeu de test. Il contient des caractères spéciaux: àéèùç!@#$%^&*() et permet de tester l'encodage.",
+    "userId": 3
+  }
+]
