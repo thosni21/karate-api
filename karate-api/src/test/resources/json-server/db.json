@@ -1,0 +1,873 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "PUT: Nouveau titre",
+      "body": "PUT: Nouveau contenu",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "PATCH: Seul le titre change",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur"
+    },
+    {
+      "userId": 2,
+      "id": 4,
+      "title": "eum et est occaecati",
+      "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure"
+    },
+    {
+      "title": "Nouveau post",
+      "body": "Contenu",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "title": "Mon premier post de test",
+      "body": "Ceci est le contenu de mon premier post créé avec Karate",
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "title": "Test de vérification",
+      "body": "Je vais vérifier ce que l'API me renvoie",
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "title": "Post créé avec une variable",
+      "body": "Les variables rendent le code plus lisible",
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "title": "Post 1",
+      "body": "Premier post",
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "title": "Post avec headers explicites",
+      "body": "J'ai spécifié les headers manuellement",
+      "userId": 1,
+      "id": 12
+    },
+    {
+      "title": "Nouveau post",
+      "body": "Contenu",
+      "userId": 1,
+      "id": 13
+    },
+    {
+      "title": "Mon premier post de test",
+      "body": "Ceci est le contenu de mon premier post créé avec Karate",
+      "userId": 1,
+      "id": 14
+    },
+    {
+      "title": "Test de vérification",
+      "body": "Je vais vérifier ce que l'API me renvoie",
+      "userId": 1,
+      "id": 15
+    },
+    {
+      "title": "Post créé avec une variable",
+      "body": "Les variables rendent le code plus lisible",
+      "userId": 1,
+      "id": 16
+    },
+    {
+      "title": "Post 1",
+      "body": "Premier post",
+      "userId": 1,
+      "id": 17
+    },
+    {
+      "title": "Post 2",
+      "body": "Deuxième post",
+      "userId": 1,
+      "id": 18
+    },
+    {
+      "title": "Post avec headers explicites",
+      "body": "J'ai spécifié les headers manuellement",
+      "userId": 1,
+      "id": 19
+    },
+    {
+      "title": "Mon premier post de test",
+      "body": "Ceci est le contenu de mon premier post créé avec Karate",
+      "userId": 1,
+      "id": 20
+    },
+    {
+      "title": "Test de vérification",
+      "body": "Je vais vérifier ce que l'API me renvoie",
+      "userId": 1,
+      "id": 21
+    },
+    {
+      "title": "Post créé avec une variable",
+      "body": "Les variables rendent le code plus lisible",
+      "userId": 1,
+      "id": 22
+    },
+    {
+      "title": "Post 1",
+      "body": "Premier post",
+      "userId": 1,
+      "id": 23
+    },
+    {
+      "title": "Post 2",
+      "body": "Deuxième post",
+      "userId": 1,
+      "id": 24
+    },
+    {
+      "title": "Post avec headers explicites",
+      "body": "J'ai spécifié les headers manuellement",
+      "userId": 1,
+      "id": 25
+    },
+    {
+      "title": "Mon premier post de test",
+      "body": "Ceci est le contenu de mon premier post créé avec Karate",
+      "userId": 1,
+      "id": 26
+    },
+    {
+      "title": "Test de vérification",
+      "body": "Je vais vérifier ce que l'API me renvoie",
+      "userId": 1,
+      "id": 27
+    },
+    {
+      "title": "Post créé avec une variable",
+      "body": "Les variables rendent le code plus lisible",
+      "userId": 1,
+      "id": 28
+    },
+    {
+      "title": "Post 1",
+      "body": "Premier post",
+      "userId": 1,
+      "id": 29
+    },
+    {
+      "title": "Post 2",
+      "body": "Deuxième post",
+      "userId": 1,
+      "id": 30
+    },
+    {
+      "title": "Post avec headers explicites",
+      "body": "J'ai spécifié les headers manuellement",
+      "userId": 1,
+      "id": 31
+    },
+    {
+      "title": "Nouveau post",
+      "body": "Contenu",
+      "userId": 1,
+      "id": 32
+    },
+    {
+      "title": "Mon premier post de test",
+      "body": "Ceci est le contenu de mon premier post créé avec Karate",
+      "userId": 1,
+      "id": 33
+    },
+    {
+      "title": "Test de vérification",
+      "body": "Je vais vérifier ce que l'API me renvoie",
+      "userId": 1,
+      "id": 34
+    },
+    {
+      "title": "Post créé avec une variable",
+      "body": "Les variables rendent le code plus lisible",
+      "userId": 1,
+      "id": 35
+    },
+    {
+      "title": "Post 1",
+      "body": "Premier post",
+      "userId": 1,
+      "id": 36
+    },
+    {
+      "title": "Post 2",
+      "body": "Deuxième post",
+      "userId": 1,
+      "id": 37
+    },
+    {
+      "title": "Post avec headers explicites",
+      "body": "J'ai spécifié les headers manuellement",
+      "userId": 1,
+      "id": 38
+    },
+    {
+      "title": "Nouveau post",
+      "body": "Contenu",
+      "userId": 1,
+      "id": 39
+    },
+    {
+      "title": "Mon premier post de test",
+      "body": "Ceci est le contenu de mon premier post créé avec Karate",
+      "userId": 1,
+      "id": 40
+    },
+    {
+      "title": "Test de vérification",
+      "body": "Je vais vérifier ce que l'API me renvoie",
+      "userId": 1,
+      "id": 41
+    },
+    {
+      "title": "Post créé avec une variable",
+      "body": "Les variables rendent le code plus lisible",
+      "userId": 1,
+      "id": 42
+    },
+    {
+      "title": "Post 1",
+      "body": "Premier post",
+      "userId": 1,
+      "id": 43
+    },
+    {
+      "title": "Post 2",
+      "body": "Deuxième post",
+      "userId": 1,
+      "id": 44
+    },
+    {
+      "title": "Post avec headers explicites",
+      "body": "J'ai spécifié les headers manuellement",
+      "userId": 1,
+      "id": 45
+    },
+    {
+      "title": "Titre stocké dans une variable",
+      "body": "Contenu dynamique généré",
+      "userId": 1,
+      "id": 46
+    },
+    {
+      "title": "Post source",
+      "body": "Contenu",
+      "userId": 1,
+      "id": 47
+    },
+    {
+      "title": "Premier post d'Alice",
+      "body": "Post créé par #(utilisateur.nom)",
+      "userId": 1,
+      "id": 48
+    },
+    {
+      "title": "#(prefixeTitre) Post conditionnel",
+      "body": "Ce post dépend de l'utilisateur",
+      "userId": 2,
+      "id": 49
+    },
+    {
+      "title": "Titre stocké dans une variable",
+      "body": "Contenu dynamique généré",
+      "userId": 1,
+      "id": 51
+    },
+    {
+      "title": "Post source",
+      "body": "Contenu",
+      "userId": 1,
+      "id": 52
+    },
+    {
+      "title": "Premier post d'Alice",
+      "body": "Post créé par #(utilisateur.nom)",
+      "userId": 1,
+      "id": 53
+    },
+    {
+      "title": "#(prefixeTitre) Post conditionnel",
+      "body": "Ce post dépend de l'utilisateur",
+      "userId": 2,
+      "id": 54
+    },
+    {
+      "title": "Titre stocké dans une variable",
+      "body": "Contenu dynamique généré",
+      "userId": 1,
+      "id": 56
+    },
+    {
+      "title": "Post source",
+      "body": "Contenu",
+      "userId": 1,
+      "id": 57
+    },
+    {
+      "title": "Post numéro 42",
+      "body": "Email de contact: #(testEmail)",
+      "userId": 1,
+      "id": 58
+    },
+    {
+      "title": "Premier post d'Alice",
+      "body": "Post créé par #(user.name)",
+      "userId": 1,
+      "id": 59
+    },
+    {
+      "title": "#(titlePrefix) Post conditionnel",
+      "body": "Ce post dépend de l'utilisateur",
+      "userId": 2,
+      "id": 60
+    },
+    {
+      "title": "Titre stocké dans une variable",
+      "body": "Contenu dynamique généré",
+      "userId": 1,
+      "id": 62
+    },
+    {
+      "title": "Post source",
+      "body": "Contenu",
+      "userId": 1,
+      "id": 63
+    },
+    {
+      "title": "Post numéro 42",
+      "body": "Email de contact: #(testEmail)",
+      "userId": 1,
+      "id": 64
+    },
+    {
+      "title": "Premier post d'Alice",
+      "body": "Post créé par #(user.name)",
+      "userId": 1,
+      "id": 65
+    },
+    {
+      "title": "#(titlePrefix) Post conditionnel",
+      "body": "Ce post dépend de l'utilisateur",
+      "userId": 2,
+      "id": 66
+    },
+    {
+      "title": "Titre stocké dans une variable",
+      "body": "Contenu dynamique généré",
+      "userId": 1,
+      "id": 68
+    },
+    {
+      "title": "Post source",
+      "body": "Contenu",
+      "userId": 1,
+      "id": 69
+    },
+    {
+      "title": "Post numéro 42",
+      "body": "Email de contact: #(testEmail)",
+      "userId": 1,
+      "id": 70
+    },
+    {
+      "title": "Premier post d'Alice",
+      "body": "Post créé par #(user.name)",
+      "userId": 1,
+      "id": 71
+    },
+    {
+      "title": "[USER] Post conditionnel",
+      "body": "Ce post dépend de l'utilisateur",
+      "userId": 2,
+      "id": 72
+    },
+    {
+      "title": "Titre stocké dans une variable",
+      "body": "Contenu dynamique généré",
+      "userId": 1,
+      "id": 74
+    },
+    {
+      "title": "Post source",
+      "body": "Contenu",
+      "userId": 1,
+      "id": 75
+    },
+    {
+      "title": "Post numéro 42",
+      "body": "Email de contact: #(testEmail)",
+      "userId": 1,
+      "id": 76
+    },
+    {
+      "title": "Premier post d'Alice",
+      "body": "Post créé par #(user.name)",
+      "userId": 1,
+      "id": 77
+    },
+    {
+      "title": "[USER] Post conditionnel",
+      "body": "Ce post dépend de l'utilisateur",
+      "userId": 2,
+      "id": 78
+    },
+    {
+      "title": "Titre stocké dans une variable",
+      "body": "Contenu dynamique généré",
+      "userId": 1,
+      "id": 80
+    },
+    {
+      "title": "Post source",
+      "body": "Contenu",
+      "userId": 1,
+      "id": 81
+    },
+    {
+      "title": "Post numéro 42",
+      "body": "Email de contact: #(testEmail)",
+      "userId": 1,
+      "id": 82
+    },
+    {
+      "title": "Premier post d'Alice",
+      "body": "Post créé par #(user.name)",
+      "userId": 1,
+      "id": 83
+    },
+    {
+      "title": "[USER] Post conditionnel",
+      "body": "Ce post dépend de l'utilisateur",
+      "userId": 2,
+      "id": 84
+    },
+    {
+      "title": "Mon premier article de blog",
+      "body": "Aujourd'hui je commence mon blog avec Karate !",
+      "userId": 6,
+      "id": 86
+    },
+    {
+      "title": "Les tests d'API c'est génial",
+      "body": "J'apprends Karate et c'est fantastique",
+      "userId": 6,
+      "id": 87
+    },
+    {
+      "title": "Projet final du jour 2",
+      "body": "Voici mon dernier article de la journée",
+      "userId": 6,
+      "id": 88
+    },
+    {
+      "id": 89,
+      "title": "Post modéré",
+      "body": "Ce post contient des mots interdits: ****, ***, *******",
+      "userId": 1
+    },
+    {
+      "id": 90,
+      "title": "Mon article publié",
+      "body": "Contenu final publié sur le blog !",
+      "userId": 1
+    },
+    {
+      "title": "Mon premier article de blog",
+      "body": "Aujourd'hui je commence mon blog avec Karate !",
+      "userId": 7,
+      "id": 91
+    },
+    {
+      "title": "Les tests d'API c'est génial",
+      "body": "J'apprends Karate et c'est fantastique",
+      "userId": 7,
+      "id": 92
+    },
+    {
+      "title": "Projet final du jour 2",
+      "body": "Voici mon dernier article de la journée",
+      "userId": 7,
+      "id": 93
+    },
+    {
+      "id": 94,
+      "title": "Post modéré",
+      "body": "Ce post contient des mots interdits: ****, ***, *******",
+      "userId": 1
+    },
+    {
+      "id": 95,
+      "title": "Mon article publié",
+      "body": "Contenu final publié sur le blog !",
+      "userId": 1
+    },
+    {
+      "title": "Mon premier article de blog",
+      "body": "Aujourd'hui je commence mon blog avec Karate !",
+      "userId": 8,
+      "id": 96
+    },
+    {
+      "title": "Les tests d'API c'est génial",
+      "body": "J'apprends Karate et c'est fantastique",
+      "userId": 8,
+      "id": 97
+    },
+    {
+      "title": "Projet final du jour 2",
+      "body": "Voici mon dernier article de la journée",
+      "userId": 8,
+      "id": 98
+    },
+    {
+      "id": 99,
+      "title": "Post modéré",
+      "body": "Ce post contient des mots interdits: ****, ***, *******",
+      "userId": 1
+    },
+    {
+      "id": 100,
+      "title": "Mon article publié",
+      "body": "Contenu final publié sur le blog !",
+      "userId": 1
+    },
+    {
+      "title": "Post automatique 1",
+      "body": "Premier post généré",
+      "userId": 1,
+      "id": 101
+    },
+    {
+      "title": "Post automatique 2",
+      "body": "Deuxième post généré",
+      "userId": 2,
+      "id": 102
+    },
+    {
+      "title": "Post automatique 3",
+      "body": "Troisième post généré",
+      "userId": 3,
+      "id": 103
+    },
+    {
+      "title": "Post de Alice",
+      "body": "Email: alice@test.com",
+      "userId": 1,
+      "id": 104
+    }
+  ],
+  "comments": [
+    {
+      "postId": 2,
+      "id": 3,
+      "name": "odio adipisci rerum aut animi",
+      "email": "Nikita@garfield.biz",
+      "body": "quia molestiae reprehenderit quasi aspernatur"
+    },
+    {
+      "postId": 2,
+      "id": 4,
+      "name": "alias odio sit",
+      "email": "Lew@alysha.tv",
+      "body": "non et atque\noccaecati deserunt quas accusantium unde odit nobis"
+    },
+    {
+      "postId": 3,
+      "id": 5,
+      "name": "vero eaque aliquid",
+      "email": "Hayden@althea.biz",
+      "body": "harum non quasi et ratione\ntempore iure ex voluptates"
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "quidem molestiae enim"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "sunt qui excepturi placeat culpa"
+    },
+    {
+      "userId": 2,
+      "id": 3,
+      "title": "omnis laborum odio"
+    },
+    {
+      "userId": 2,
+      "id": 4,
+      "title": "non esse culpa molestiae"
+    },
+    {
+      "userId": 3,
+      "id": 5,
+      "title": "eaque aut omnis a"
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "accusamus beatae ad facilis",
+      "url": "https://via.placeholder.com/600/92c952",
+      "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "reprehenderit est deserunt",
+      "url": "https://via.placeholder.com/600/771796",
+      "thumbnailUrl": "https://via.placeholder.com/150/771796"
+    },
+    {
+      "albumId": 2,
+      "id": 3,
+      "title": "officia porro iure quia",
+      "url": "https://via.placeholder.com/600/24f355",
+      "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    },
+    {
+      "albumId": 2,
+      "id": 4,
+      "title": "culpa odio esse rerum",
+      "url": "https://via.placeholder.com/600/d32776",
+      "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+    },
+    {
+      "albumId": 3,
+      "id": 5,
+      "title": "natus nisi omnis",
+      "url": "https://via.placeholder.com/600/f66b97",
+      "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+    }
+  ],
+  "todos": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "delectus aut autem",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "quis ut nam facilis et officia qui",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "fugiat veniam minus",
+      "completed": false
+    },
+    {
+      "userId": 2,
+      "id": 4,
+      "title": "et porro tempora",
+      "completed": true
+    },
+    {
+      "userId": 2,
+      "id": 5,
+      "title": "laboriosam mollitia et enim",
+      "completed": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      }
+    },
+    {
+      "name": "Alice Martin",
+      "username": "alice_blog",
+      "email": "alice@monblog.com",
+      "address": {
+        "street": "Blog Street",
+        "suite": "Suite 1",
+        "city": "WebCity",
+        "zipcode": "12345",
+        "geo": {
+          "lat": "0.0",
+          "lng": "0.0"
+        }
+      },
+      "phone": "123-456-7890",
+      "website": "alice-blog.com",
+      "company": {
+        "name": "Personal Blog",
+        "catchPhrase": "Sharing my thoughts",
+        "bs": "personal blogging"
+      },
+      "id": 6
+    },
+    {
+      "name": "Alice Martin",
+      "username": "alice_blog",
+      "email": "alice@monblog.com",
+      "address": {
+        "street": "Blog Street",
+        "suite": "Suite 1",
+        "city": "WebCity",
+        "zipcode": "12345",
+        "geo": {
+          "lat": "0.0",
+          "lng": "0.0"
+        }
+      },
+      "phone": "123-456-7890",
+      "website": "alice-blog.com",
+      "company": {
+        "name": "Personal Blog",
+        "catchPhrase": "Sharing my thoughts",
+        "bs": "personal blogging"
+      },
+      "id": 7
+    },
+    {
+      "name": "Alice Martin",
+      "username": "alice_blog",
+      "email": "alice@monblog.com",
+      "address": {
+        "street": "Blog Street",
+        "suite": "Suite 1",
+        "city": "WebCity",
+        "zipcode": "12345",
+        "geo": {
+          "lat": "0.0",
+          "lng": "0.0"
+        }
+      },
+      "phone": "123-456-7890",
+      "website": "alice-blog.com",
+      "company": {
+        "name": "Personal Blog",
+        "catchPhrase": "Sharing my thoughts",
+        "bs": "personal blogging"
+      },
+      "id": 8
+    }
+  ]
+}
