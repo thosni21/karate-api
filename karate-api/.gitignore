@@ -34,8 +34,13 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Karate reports (optional - you may want to keep them)
-# target/karate-reports/
+# Karate specific
+target/karate-reports/
+target/surefire-reports/
+target/test-classes/
+*.html
+
+*.karate.log
 
 # Logs
 *.log

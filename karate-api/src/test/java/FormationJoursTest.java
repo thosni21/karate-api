@@ -43,4 +43,10 @@ public class FormationJoursTest {
         return Karate.run("classpath:features/formation/jour2/03-variables-avancees.feature");
     }
 
+       @Karate.Test
+    Karate test() {
+        //- Variables et JavaScript
+        return Karate.run("classpath:features/formation/jour2/projet3-statistiques-blog.feature");
+    }
+
 }

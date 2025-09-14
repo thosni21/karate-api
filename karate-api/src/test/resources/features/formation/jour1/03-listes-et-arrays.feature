@@ -1,8 +1,8 @@
 Feature: JOUR 1 - APRÈS-MIDI - Listes et tableaux JSON (2h)
-  # 🎯 Objectifs:
-  # - Comprendre les arrays/listes en JSON
-  # - Accéder aux éléments par index
-  # - Valider des collections de données
+    # 🎯 Objectifs:
+    # - Comprendre les arrays/listes en JSON
+    # - Accéder aux éléments par index
+    # - Valider des collections de données
 
   Background:
     * url baseUrl
@@ -78,4 +78,4 @@ Feature: JOUR 1 - APRÈS-MIDI - Listes et tableaux JSON (2h)
     Then status 200
     And match response == '#[10]'
     And match each response[*].userId == 1
-  # 💡 Explication: 'param' ajoute ?userId=1 à l'URL
+    # 💡 Explication: 'param' ajoute ?userId=1 à l'URL
