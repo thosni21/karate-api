@@ -22,6 +22,11 @@ Feature: PROJET 2 - Modération de contenu
     # TODO: Ajouter la méthode POST
     # TODO: Vérifier le status 201
     # TODO: Stocker l'ID du post
+
+
+
+
+    
     
     # TODO: Modérer (censurer) le contenu
     # CONSIGNE: Utiliser PUT avec le contenu censuré

@@ -50,6 +50,8 @@ Feature: JOUR 1 - MATIN - Premiers pas avec Karate (1h30)
     When method GET
     Then status 200
     And match response.id == 2
+
+ 
     
   Scenario: Que se passe-t-il si le post n'existe pas ?
     # 📝 OBJECTIF: Comprendre les erreurs
